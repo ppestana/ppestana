@@ -16,7 +16,6 @@
 
 #### Especialização SIG
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-E73238?style=for-the-badge&logo=arcgis&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📊 Estatísticas
@@ -29,7 +28,6 @@
 
 #### Software e Ferramentas
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![ArcGIS](https://img.shields.io/badge/ArcGIS-E73238?style=for-the-badge&logo=arcgis&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
 ![ENVI](https://img.shields.io/badge/ENVI-004A99?style=for-the-badge&logo=harris&logoColor=white)
 
