@@ -36,9 +36,16 @@ Sou apaixonado por transformar dados geográficos em conhecimento acionável atr
 ### 📊 Estatísticas de Código
 *(Dados da minha conta unificada)*
 
-| | |
-|---|---|
-| ![As minhas stats do GitHub](https://github-readme-stats-one-bice.vercel.app/api?username=ppestana&show_icons=true&theme=radical) | ![Linguagens mais usadas](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ppestana&layout=compact&theme=radical) |
+<table border="0">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ppestana&show_icons=true&theme=radical" alt="As minhas stats do GitHub">
+    </td>
+    <td>
+      <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ppestana&layout=compact&theme=radical" alt="Linguagens mais usadas">
+    </td>
+  </tr>
+</table>
 
 ---
 
