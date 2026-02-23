@@ -42,8 +42,6 @@ Sou apaixonado por transformar dados geográficos em conhecimento acionável atr
 
 ---
 
----
-
 ### 📧 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrompestana)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pedropestana.com)
