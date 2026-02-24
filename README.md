@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="banner.jpg" alt="Banner do Pedro Pestana" width="100%">
-</p>
 # Olá 👋, sou o Pedro Pestana
 
 ### 🌍 Geógrafo | Analista SIG | Data Enthusiast
