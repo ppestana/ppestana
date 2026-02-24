@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=336791&height=200&section=header&text=Pedro%20Pestana&fontSize=70&desc=Geógrafo%20|%20Analista%20SIG%20|%20Data%20Enthusiast&descSize=25&descAlignY=70&fontColor=fff" />
-</p>
 # Olá 👋, sou o Pedro Pestana
 
 ### 🌍 Geógrafo | Analista SIG | Data Enthusiast
