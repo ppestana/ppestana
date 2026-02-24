@@ -1,7 +1,6 @@
 <p align="center">
   <img src="banner-ppestana.jpg" alt="Banner Topográfico Pedro Pestana" width="100%">
 </p>
-
 <h1 align="center">Olá 👋, sou o Pedro Pestana</h1>
 <p align="center">🌍 Sistemas Geoespaciais e Engenharia de Dados</p>
 
