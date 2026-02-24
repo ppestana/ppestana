@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner-ppestana.jpg" alt="Pedro Pestana - SIG e Engenharia de Dados" width="100%">
+</p>
 # Olá 👋, sou o Pedro Pestana
 
 ### 🌍 Geógrafo | Analista SIG | Data Enthusiast
