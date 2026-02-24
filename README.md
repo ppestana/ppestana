@@ -3,7 +3,7 @@
 </p>
 # Olá 👋, sou o Pedro Pestana
 
-### 🌍 Geógrafo | Analista SIG | Data Enthusiast
+### 🌍 Sistemas Geoespaciais e Engenharia de Dados
 
 Sou apaixonado por transformar dados geográficos em conhecimento acionável através de tecnologias **Open Source**. Especializo-me na utilização de QGIS, bases de dados espaciais e Python para análise e visualização de dados geográficos.
 
