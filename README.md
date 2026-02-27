@@ -1,12 +1,14 @@
 <p align="center">
   <img src="banner-ppestana.jpg" alt="Banner Topográfico Pedro Pestana" width="100%">
 </p>
-<h1 align="center">Olá 👋, sou o Pedro Pestana</h1>
-<p align="center">🌍 Sistemas Geoespaciais e Engenharia de Dados</p>
 
-<p align="center">
+<h1 align="center">Olá 👋, sou o Pedro Pestana</h1>
+
+<div align="justify">
+  <p align="center">🌍 <b>Sistemas Geoespaciais e Engenharia de Dados</b></p>
+  
   Sou apaixonado por transformar dados geográficos em conhecimento acionável através de tecnologias <b>Open Source</b>. Especializo-me na utilização de QGIS, bases de dados espaciais e Python para análise e visualização de dados geográficos.
-</p>
+</div>
 
 ---
 
@@ -57,4 +59,6 @@
 ---
 <p align="center">
   <i>“Everything is related to everything else, but near things are more related than distant things.” – Waldo Tobler</i>
+</p>
+
 </p>
