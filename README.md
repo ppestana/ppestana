@@ -30,7 +30,7 @@ Sou apaixonado por transformar dados geográficos em conhecimento acionável atr
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
 ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GeoServer-263238?style=for-the-badge&logo=geoserver&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-263238?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzI2OThEMCIgZD0iTTEyIDBMMS4zNiAxMC42NCAxMiAyMS4yOCAyMi42NCAxMC42NCAxMiAwem0tMi43MiAxNS44NWMtLjI3IDAtLjQ4LS4yMS0uNDgtLjQ4czIuMTctNi40OCAyLjE3LTYuNDhjLjA5LS4yNy4zMy0uNDIuNi0uNDIuMjcgMCAuNTEuMTUuNi40MmwyLjE3IDYuNDhjMCAuMjctLjIxLjQ4LS40OC40OHMtLjQ4LS4yMS0uNDgtLjQ4bC0uNDYtMS4zOEg5Ljk0bC0uNDYgMS4zOGMtLjA5LjI3LS4zLjQ4LS40OC40OHptMy4xOC0zLjEybC0uOTEtMi43My0uOTEgMi43M2gxLjgyeiIgLz48L3N2Zz4=&logoColor=white)
 
 ---
 
