@@ -1,14 +1,8 @@
-<p align="center">
-  <img src="banner-ppestana.jpg" alt="Banner Topográfico Pedro Pestana" width="100%">
-</p>
+# Olá 👋, sou o Pedro Pestana
 
-<h1 align="center">Olá 👋, sou o Pedro Pestana</h1>
+### 🌍 Geógrafo | Analista SIG | Data Enthusiast
 
-<div align="justify">
-  <p align="center">🌍 <b>Sistemas Geoespaciais e Engenharia de Dados</b></p>
-  
-  Sou apaixonado por transformar dados geográficos em conhecimento acionável através de tecnologias <b>Open Source</b>. Especializo-me na utilização de QGIS, bases de dados espaciais e Python para análise e visualização de dados geográficos.
-</div>
+Sou apaixonado por transformar dados geográficos em conhecimento acionável através de tecnologias **Open Source**. Especializo-me na utilização de QGIS, bases de dados espaciais e Python para análise e visualização de dados geográficos.
 
 ---
 
@@ -23,42 +17,35 @@
 ### 🛠️ Toolbox Técnica (Open Source Focus)
 
 #### **Sistemas de Informação Geográfica**
-![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![GRASS GIS](https://img.shields.io/badge/GRASS%20GIS-111111?style=for-the-badge&logo=qgis&logoColor=white) ![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![GRASS GIS](https://img.shields.io/badge/GRASS%20GIS-111111?style=for-the-badge&logo=qgis&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
 
 #### **Linguagens e Bases de Dados**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 #### **Bibliotecas e Web Maps**
-![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white) ![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
+![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
+![GeoServer](https://img.shields.io/github/v/release/geoserver/geoserver?label=GeoServer&color=blue)
 
 ---
 
 ### 📊 Estatísticas de Código
 *(Dados da minha conta unificada)*
 
-<p align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ppestana&show_icons=true&theme=gruvbox" alt="As minhas stats do GitHub" height="170">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ppestana&layout=compact&theme=gruvbox" alt="Linguagens mais usadas" height="170">
-</p>
+![As minhas stats do GitHub](https://github-readme-stats.vercel.app/api?username=ppestana&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ppestana&layout=compact&theme=radical)
 
 ---
 
 ### 📧 Vamos conversar?
-<p align="center">
-  <a href="https://linkedin.com/in/pedrompestana">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.pedropestana.com">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
-  </a>
-  <a href="mailto:ppestana.git@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrompestana)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pedropestana.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppestana.git@gmail.com)
 
 ---
-<p align="center">
-  <i>“Everything is related to everything else, but near things are more related than distant things.” – Waldo Tobler</i>
-</p>
-
-</p>
+*“Everything is related to everything else, but near things are more related than distant things.” – Waldo Tobler*
