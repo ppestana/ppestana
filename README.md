@@ -1,51 +1,67 @@
-# Olá 👋, sou o Pedro Pestana
+# Pedro M Pestana · ppestana
 
-### 🌍 Geógrafo | Analista SIG | Data Enthusiast
+**EN** · Geospatial systems developer and GIS specialist. 40+ years building business applications — from COBOL/DB2 to Python/PostGIS. I design and build data-driven systems with a territorial component: spatial databases, automated pipelines, web mapping, and statistical analysis tools.
 
-Sou apaixonado por transformar dados geográficos em conhecimento acionável através de tecnologias **Open Source**. Especializo-me na utilização de QGIS, bases de dados espaciais e Python para análise e visualização de dados geográficos.
+**PT** · Programador de sistemas geoespaciais e especialista SIG. Mais de 40 anos a construir aplicações de negócio — de COBOL/DB2 a Python/PostGIS. Desenvolvo sistemas orientados a dados com componente territorial: bases de dados espaciais, pipelines automatizados, web mapping e ferramentas de análise estatística.
 
----
-
-### 💻 Sobre Mim
-- 🗺️ **O que faço:** Desenvolvimento de soluções SIG e análise espacial com foco em software livre.
-- 🚀 **Foco Atual:** Automatização de workflows no QGIS com Python (PyQGIS) e gestão de dados no PostGIS.
-- 🌐 **O meu portfólio:** Visita o meu site em [www.pedropestana.com](https://www.pedropestana.com).
-- 🎓 **Área:** Geografia e Sistemas de Informação Geográfica.
+🌐 [www.pedropestana.com](https://www.pedropestana.com) · 📍 Torres Vedras, Portugal
 
 ---
 
-### 🛠️ Toolbox Técnica (Open Source Focus)
+## 🛠️ Tech Stack
 
-#### **Sistemas de Informação Geográfica**
+#### GIS & Geospatial
 ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
-![GRASS GIS](https://img.shields.io/badge/GRASS%20GIS-111111?style=for-the-badge&logo=qgis&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![GeoServer](https://img.shields.io/badge/GeoServer-2698D0?style=for-the-badge&logoColor=white)
 ![Google Earth Engine](https://img.shields.io/badge/GEE-4285F4?style=for-the-badge&logo=google-earth&logoColor=white)
 
-#### **Linguagens e Bases de Dados**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PostGIS](https://img.shields.io/badge/PostGIS-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+#### Languages & Databases
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### **Bibliotecas e Web Maps**
+#### Libraries & Web Mapping
 ![GeoPandas](https://img.shields.io/badge/GeoPandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white)
-![Folium](https://img.shields.io/badge/Folium-77B829?style=for-the-badge&logo=python&logoColor=white)
-![GeoServer](https://img.shields.io/badge/GEOSERVER-2698D0?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyTDIgMTJsMTAgMTAgMTAtMTBMMTIgMnpNMTEgMTNoLTJ2LTJoMnYyem00IDBoLTJ2LTJoMnYyeiIvPjwvc3ZnPg==&logoColor=white)
+![GDAL](https://img.shields.io/badge/GDAL-5CAD3A?style=for-the-badge&logoColor=white)
+
+#### Currently Learning
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![GeoDjango](https://img.shields.io/badge/GeoDjango-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTMX](https://img.shields.io/badge/HTMX-3D72D7?style=for-the-badge&logoColor=white)
+
+#### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-### 📊 Estatísticas de Código
-*(Dados da minha conta unificada)*
+## 📂 Featured Projects
 
-![As minhas stats do GitHub](https://github-readme-stats.vercel.app/api?username=ppestana&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ppestana&layout=compact&theme=radical)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [mapa_propriedade](https://github.com/ppestana/mapa_propriedade) | GPS → print-ready property map PDF | Python, GDAL, GeoPandas |
+| Ecoturismo Portugal Portal *(in development)* | National WebGIS for hiking & ecotourism routes | PostGIS, GeoServer, Leaflet |
+| Referee Bias Detection System *(in development)* | Statistical anomaly detection in referee decisions | Python, PostgreSQL, Streamlit, scikit-learn |
 
 ---
 
-### 📧 Vamos conversar?
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrompestana)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ppestana&show_icons=true&theme=default&hide_border=true)
+
+---
+
+## 📬 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pmpestana)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.pedropestana.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ppestana.git@gmail.com)
+[![Bluesky](https://img.shields.io/badge/Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/ppestana.bsky.social)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@pedropestana.com)
 
 ---
-*“Everything is related to everything else, but near things are more related than distant things.” – Waldo Tobler*
+
+*"Everything is related to everything else, but near things are more related than distant things." — Waldo Tobler*
